@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **alexandrukeryx@gmail.com**
 
-- Year 2 of University!
+- 🔭 Year 2 of University!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
