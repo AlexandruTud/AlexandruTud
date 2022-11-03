@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Tudor Vladut-Alexandru</h1>
 <h3 align="center">Student at the Ovidius University of Constanta</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrutud&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrutud" /> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on **my future!**
 
