@@ -12,6 +12,10 @@
 
 - 🔭 Year 2 of University!
 
+- 👨‍💻 Official meetings I attended: 
+        • Constanta Developers May Meetup (24 may 2022)
+        • Constanta Developers Autumn Meetup (1 november 2022)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atkeryx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atkeryx" height="30" width="40" /></a>
