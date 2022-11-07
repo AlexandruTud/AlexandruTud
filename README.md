@@ -15,6 +15,10 @@
 - 👨‍💻 Official meetings I attended: 
         • Constanta Developers May Meetup (24 may 2022)
         • Constanta Developers Autumn Meetup (1 november 2022)
+- 🧾 Official courses and certificates that I have obtained:
+        • Microsoft Azure Fundamentals (july 2022)
+        • SoloLearn Java Certificate (october 2021)
+        • SoloLearn HTML Certificate (november 2022)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
