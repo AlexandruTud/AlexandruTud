@@ -19,7 +19,8 @@
         • Microsoft Azure Fundamentals (july 2022)
         • SoloLearn Java Certificate (october 2021)
         • SoloLearn HTML Certificate (november 2022)
-
+- 🧾 Books I started reading:
+        • The C Programming Language 2nd edition by Dennis Ritchie
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atkeryx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atkeryx" height="30" width="40" /></a>
