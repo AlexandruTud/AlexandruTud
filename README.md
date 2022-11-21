@@ -17,8 +17,8 @@
         • Constanta Developers Autumn Meetup (1 november 2022)
 - 🧾 Official courses and certificates that I have obtained:
         • Microsoft Azure Fundamentals - Certificate (july 2022)
-        • SoloLearn Java - Certificate (october 2021)
-        • SoloLearn HTML - Certificate (november 2022)
+        • SoloLearn Java - Certificate (october 2022)
+        • SoloLearn HTML - Certificate (november 2021)
         • CS50: Introduction to Computer Science - Course (on going)
 - 🧾 Books I started reading:
         • The C Programming Language 2nd edition by Dennis Ritchie
