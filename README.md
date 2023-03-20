@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **my future!**
 
-- 🌱 I’m currently learning **Java!**
-
 - 📫 How to reach me: **alexandrukeryx@gmail.com**
 
 - 🔭 Year 2 of University!
