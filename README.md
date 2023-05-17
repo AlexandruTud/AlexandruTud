@@ -16,6 +16,7 @@
         • Constanta WordPress Meetup (23 november 2022)
         • Constanta Developers Meetup - The first in ‘23 (28 february 2023)
         • Google Workshop Presentation (27 march 2023)
+        • Constanta Developers Spring Meetup (17 may 2023)
 - 🧾 Official courses and certificates that I have obtained:
         • Microsoft Azure Fundamentals - Certificate (july 2022)
         • SoloLearn Java - Certificate (october 2022)
