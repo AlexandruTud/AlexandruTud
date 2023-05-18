@@ -52,9 +52,15 @@
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
         </a> 
-        <a href="[https://www.photoshop.com/en](https://developer.mozilla.org/en-US/docs/Web/JavaScrip)" target="_blank" rel="noreferrer"> 
-                <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)" alt="javascript" width="40" height="40"/> 
-        </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                <img  alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                <img  alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+              <img  alt="vscode" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+        </a>
 </p>
 
 <h2 style="color: #44AEFB" align="center">Statistics</h2>
