@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **alexandrukeryx@gmail.com**
 
-- 🔭 Year 2 of University!
+- 🔭 Year 3 of University!
 
 - 👨‍💻 Official meetings I attended: 
         • Constanta Developers May Meetup (24 may 2022)
