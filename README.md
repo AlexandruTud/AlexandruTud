@@ -67,7 +67,7 @@
 
 <div class="stats" align="center">
 
-![Alexandru Tudor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrutud&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Alexandru Tudor's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrutud&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alexandrutud&count_private=true&theme=algolia&border_radius=20)
 
