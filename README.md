@@ -26,7 +26,6 @@
         • The C Programming Language 2nd edition by Dennis Ritchie
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <a href="https://linkedin.com/in/alexandru-tudor-a732a1250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandru tudor" height="30" width="40" /></a>
 <a href="https://instagram.com/alexandru.all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandru.all" height="30" width="40" /></a>
 </p>
