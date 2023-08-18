@@ -82,18 +82,6 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> 
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="word" width="40" height="40"/> 
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> 
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_access/microsoft_access-icon.svg" alt="access" width="40" height="40"/> 
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="powerpoint" width="40" height="40"/> 
-</a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
