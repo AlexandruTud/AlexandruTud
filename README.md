@@ -1,4 +1,3 @@
-<h1 align="center">Hello, I'm Alexandru Tudor</h1>
 <h3 align="center">Student at Ovidius University of Constanta</h3>
 
 <p align="left">  </p>
