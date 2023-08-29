@@ -1,5 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)(https://github.com/AlexandruTud)
-<h1 align="center">Hi, I'm Tudor Vladut-Alexandru</h1>
+<h1 align="center">Hello, I'm Alexandru Tudor</h1>
 <h3 align="center">Student at Ovidius University of Constanta</h3>
 
 <p align="left">  </p>
