@@ -1,4 +1,4 @@
-![MasterHead]([https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi, I'm Tudor Vladut-Alexandru</h1>
 <h3 align="center">Student at Ovidius University of Constanta</h3>
 
